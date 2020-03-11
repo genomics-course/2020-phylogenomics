@@ -5,5 +5,5 @@ channels:
   - eaton-lab
 dependencies:
   - python
-  - toytree
+  - toytree>=1.1.3
   - ipcoal
