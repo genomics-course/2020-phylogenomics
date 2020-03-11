@@ -1,0 +1,9 @@
+name: session-13
+channels:
+  - conda-forge
+  - bioconda
+  - eaton-lab
+dependencies:
+  - python
+  - toytree
+  - ipcoal
